@@ -16,7 +16,6 @@ from yellowbrick.regressor import prediction_error,residuals_plot
 
 
 
-
 def load_average_vehicle(file_dir):
     average_vehicle_df = pd.read_excel(file_dir, sheet_name="2.1, 2.2, 2.3,2.4", header=2, nrows=19, usecols="A:AH")
     return average_vehicle_df

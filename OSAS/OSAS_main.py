@@ -1,6 +1,6 @@
 import random
 import os
-from help_methods import *
+from OSAS.help_methods import *
 
 # hyper parameters
 # pd.set_option('display.max_columns', None)
