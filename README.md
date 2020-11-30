@@ -10,3 +10,5 @@
 ### The python environment need:
 #### python 3.7+, scipy, matplotlib, pandas, xrld, sklearn, yellowbrick
 #### run OSAS_main.py they will automaticly find NZ-Vehicle-Fleet-Statistics-2018_web.xlsx at current dir.
+
+## [Ressearch Paper here!](tbai915 research paper.pdf)
